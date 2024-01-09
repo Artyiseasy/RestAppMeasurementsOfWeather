@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ClientRestApp:war">
+    <output-path>$PROJECT_DIR$/ClientRestApp/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ClientRestApp</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ClientRestApp.war">
+      <element id="artifact" artifact-name="ClientRestApp:war exploded" />
+    </root>
+  </artifact>
+</component>

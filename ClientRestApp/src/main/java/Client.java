@@ -10,7 +10,7 @@ import java.util.Random;
 
 public class Client {
     public static void main(String[] args) {
-        final String name = "Sensor3";
+        final String name = "SensorMSK";
 
         registerSensor(name);
 
@@ -25,7 +25,7 @@ public class Client {
     }
 
     private static void registerSensor(String name) {
-        final String url = "http://localhost:8090/sensors/registration";
+        final String url = "http://localhost:8060/sensors/registration";
         Map<String, Object> jsonData = new HashMap<>();
         jsonData.put("name", name);
         makePostRequestWithJSONData(url, jsonData);

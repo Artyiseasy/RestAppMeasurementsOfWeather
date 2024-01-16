@@ -59,7 +59,7 @@ public class MeasurementsController {
 
     @GetMapping("/rainyDaysCount")
     public Long getRainyDaysCount() {
-        return measurementService.findAll().stream().filter(Measurement::isRaining).count();
+        return measurementService.findAll().stream().filter(Measurement::getRaining).count();
     }
 
     private Measurement convertToMeasurement(MeasurementDTO measurementDTO) {

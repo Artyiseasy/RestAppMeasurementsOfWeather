@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e5debc79-5e07-4171-a683-084d161c2482" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/src/main/java/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/src/main/java/DTO/MeasurementDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/src/main/java/DTO/MeasurementsResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/src/main/java/DTO/SensorDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/src/main/webapp/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/target/classes/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/target/classes/DTO/MeasurementDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/target/classes/DTO/MeasurementsResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/target/classes/DTO/SensorDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CkientRestApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/DTO/MeasurementDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/DTO/MeasurementsResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/DTO/SensorDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/FirstRestAppApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/controllers/MeasurementsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/controllers/SensorsController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/models/Measurement.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/models/Sensor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/repositories/MeasurementRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/repositories/SensorRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/services/MeasurementService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/services/SensorService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/util/ErrorsUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/util/MeasurementErrorResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/util/MeasurementException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/util/MeasurementValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/ru/tarasov/springcourse/FirstRestApp/util/SensorValidator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/ru/tarasov/springcourse/FirstRestApp/FirstRestAppApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/DTO/MeasurementDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/DTO/MeasurementsResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/DTO/SensorDTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/FirstRestAppApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/controllers/MeasurementsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/controllers/SensorsController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/models/Measurement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/models/Sensor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/repositories/MeasurementRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/repositories/SensorRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/services/MeasurementService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/services/SensorService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/util/ErrorsUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/util/MeasurementErrorResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/util/MeasurementException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/util/MeasurementValidator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../target/classes/ru/tarasov/springcourse/FirstRestApp/util/SensorValidator.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ZqQ63Zs1HQqDSzyuKaqYgOfee6" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "spring.configuration.checksum": "fe0cb7c81c035230354d1068ca788b69",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5debc79-5e07-4171-a683-084d161c2482" name="Changes" comment="" />
+      <created>1703146950881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1703146950881</updated>
+      <workItem from="1703146952613" duration="819000" />
+      <workItem from="1704812322197" duration="6000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
